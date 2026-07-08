@@ -1,0 +1,12 @@
+# Pixiv
+# Author: GitHOCL
+
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pixivsketch.net
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pximg.org
+
+DOMAIN,accounts.pixiv.net
+DOMAIN,app-api.pixiv.net
+DOMAIN,oauth.secure.pixiv.net
