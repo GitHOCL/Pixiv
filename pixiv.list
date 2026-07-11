@@ -1,12 +1,14 @@
-# Pixiv
-# Author: GitHOCL
-
+# 主站及核心图片 CDN
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,pixivsketch.net
-DOMAIN-SUFFIX,pixiv.org
-DOMAIN-SUFFIX,pximg.org
 
-DOMAIN,accounts.pixiv.net
-DOMAIN,app-api.pixiv.net
-DOMAIN,oauth.secure.pixiv.net
+# 衍生域名与缩写
+DOMAIN-SUFFIX,pixiv.me
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pixiv.co.jp
+DOMAIN-KEYWORD,pixiv
+
+# Pixiv 旗下创作者赞助平台与电商
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,booth.pm
+
